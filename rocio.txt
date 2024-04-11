@@ -1,1 +1,3 @@
-hola este es mi nombre
+hola este es mi nombre.
+Tengo 26 años.
+
